@@ -1,4 +1,3 @@
-import execute.resnet as models
 import torch.nn as nn
 import torch
 from efficientnet.model import EfficientNet
